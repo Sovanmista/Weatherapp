@@ -1,0 +1,19 @@
+address: "garhbeta"
+ timezone: "Asia/Kolkata",
+ description: "Similar temperatures continuing with no rain expected."
+​
+address: "garhbeta"
+
+​
+
+​currentConditions: Object { datetime: "02:00:00", datetimeEpoch: 1711225800, temp: 25.1, … }
+temp:
+
+
+​
+
+​
+
+
+
+​
